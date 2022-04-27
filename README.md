@@ -1,4 +1,4 @@
-# browser-360cn-se-ver-ent
+# browser-360cn-ent
 
 https://browser.360.cn/se/ver/ent.html
 
